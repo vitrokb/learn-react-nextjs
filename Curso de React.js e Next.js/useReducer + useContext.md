@@ -1,0 +1,1 @@
+Estados globais! Cria um manipulador de estado que consome dados de um contexto.
